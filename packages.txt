@@ -1,0 +1,6 @@
+atom-beautify
+indent-guide-improved
+language-viml
+linter
+minimap
+sort-lines

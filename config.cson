@@ -1,0 +1,26 @@
+"*":
+  editor:
+    invisibles: {}
+    preferredLineLength: 120
+    tabLength: 4
+  core:
+    themes: [
+      "one-dark-ui"
+      "one-dark-syntax"
+    ]
+    projectHome: "~/Workspace"
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "*.pyc"
+    ]
+  "exception-reporting":
+    userId: "7ba846d1-b5d3-e625-33eb-d04b1082dd2a"
+  welcome:
+    showOnStartup: false
+  "atom-beautify":
+    _analyticsUserId: "e19410cc-9607-4d24-82d0-9ae199a93e16"
