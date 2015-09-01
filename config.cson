@@ -3,7 +3,15 @@
     invisibles: {}
     preferredLineLength: 120
     tabLength: 4
+  react: {}
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  nuclide:
+    remoteProjectsConfig: []
   core:
+    disabledPackages: [
+      "tree-view"
+    ]
     themes: [
       "one-dark-ui"
       "one-dark-syntax"
@@ -22,5 +30,3 @@
     userId: "7ba846d1-b5d3-e625-33eb-d04b1082dd2a"
   welcome:
     showOnStartup: false
-  "atom-beautify":
-    _analyticsUserId: "e19410cc-9607-4d24-82d0-9ae199a93e16"
