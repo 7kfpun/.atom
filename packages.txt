@@ -20,3 +20,4 @@ nuclide-type-hint
 react
 sort-lines
 vim-mode
+whitespace
